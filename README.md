@@ -1,6 +1,6 @@
 ### Olá! Sou Guilherme Lopes
 - ⚡ Estudante de Engenharia Elétrica
-- 💻 Desenvolvedor Back-End
+- 💻 Desenvolvedor Full-Stack
 
 ##
 
